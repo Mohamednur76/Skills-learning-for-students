@@ -24,4 +24,4 @@ print("Thanks for playing!")
 
 #---end of the game---#
 
-#Notes: This is a basic demonstration of my ability to create simple interactive games using Python. My score: 8/10 B+
+#Notes: This is a basic demonstration of my ability to create simple interactive games using Python. I had sped through this, and there's a lot room for improvement
